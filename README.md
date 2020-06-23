@@ -1,5 +1,5 @@
 # QISS (Quantity Identification System Speakers) 
-It's a software for detect the number of speakers in a room
+Software for detect the number of speakers in a room
 
 <img alt="QISS" style="border-width:0" src="https://i.ibb.co/9TqTzC5/image.png" />
 
