@@ -1,2 +1,7 @@
-# Quantity-Identification-System-Speakers
-QISS (Quantity Identification System Speakers) detects the number of speakers in a room
+# QISS (Quantity Identification System Speakers) 
+It's a software for detect the number of speakers in a room
+
+<img alt="QISS" style="border-width:0" src="https://i.ibb.co/9TqTzC5/image.png" />
+
+## Resumen (Spanish)
+En este articulo se presenta un enfoque alternativo para el desarrollo de un sistema de identificación de hablantes en una habitación. Para lograr dicho enfoque, se ha investigado sobre los diferentes métodos que existen para lograr dicha finalidad; desde el análisis de fonemas a través de la   identificación del pulso glótico del hablante, como así también del uso de clusters a través de técnicas de Inteligencia Artificial. Cada uno de estos métodos presentan diferentes limitaciones, tales como la necesidad de que cada hablante pronuncie al menos alguna fonante, disponibilidad de una base de datos, cantidad de datos a utilizar y costos computacionales elevados. Se graba una conversación sin interrupciones ni solapamiento de voces en una habitación con poco ruido y a partir de allí se obtiene la señal de audio digital. Luego se identifican los tramos de la señal en donde se encuentre que una persona esté hablando mediante el análisis y medición de la amplitud a través de un umbral. Se analizan cada uno de estos tramos entre sí para determinar si corresponden a personas diferentes a través de la identificación y comparación de ciertos parámetros característicos. A partir de allí, se hace una discriminación por sexo y luego un análisis más fino para determinar la cantidad de hablantes por sexo y en total. Con las medidas de desempeño calculadas se determinó que el nivel de aciertos del sistema fue aproximadamente del 77% para el método de Kullback-Leibler, mientras que para el método del producto punto, fue del 55%
