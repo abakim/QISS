@@ -1,5 +1,5 @@
-# QISS (Quantity Identification System Speakers) 
-Software for detect the number of speakers and their sex in a room
+# QS
+Software that counts the number of people speaking in a room and identifies their sex.
 
 <img alt="QISS" style="border-width:0" src="https://i.ibb.co/9TqTzC5/image.png" />
 
