@@ -1,5 +1,5 @@
 # QS
-Software that counts the number of people speaking in a room and identifies their sex.
+Software that counts the number of people speaking in a room and identifies their sex using digital signal processing with an 77% of success, developed in Matlab.
 
 <img alt="QISS" style="border-width:0" src="https://i.ibb.co/9TqTzC5/image.png" />
 
